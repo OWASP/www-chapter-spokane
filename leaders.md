@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Tim Wilcoxson](mailto:tim.wilcoxson@owasp.org)
+* [Matt Grotheer](mailto:matt.grotheer@owasp.org)
