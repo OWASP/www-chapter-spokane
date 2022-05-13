@@ -3,5 +3,4 @@
 
 ### Social Links
 * [Meetup](#)
-
-
+* [Twitter](https://twitter.com/owaspspokane)
