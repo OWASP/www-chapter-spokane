@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Spokane
 tags: example-tag
 region: North America
+country: USA
 meetup-group:
 
 ---
