@@ -1,0 +1,23 @@
+leaders:
+  - name: Tim Wilcoxson
+    email: tim.wilcoxson@owasp.org
+  - name: Matt Grotheer
+    email: matt.grotheer@owasp.org
+    github: mgrotheer
+location:
+  country: United States
+  country_code: US
+  region: Washington
+  city: Spokane
+  latitude: 47.6571934
+  longitude: -117.42351
+name: OWASP Spokane
+repositories:
+  - name: www-chapter-spokane
+    url: https://github.com/OWASP/www-chapter-spokane
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-spokane
